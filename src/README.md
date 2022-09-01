@@ -1,3 +1,3 @@
 # src directory
 
-All src files are stored here.
+All source files are stored here.
